@@ -1,3 +1,10 @@
 .col-md-5 img {
     width: 100%;
 }
+
+.flashes {
+    list-style: none;
+    border: 2px solid #000;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
